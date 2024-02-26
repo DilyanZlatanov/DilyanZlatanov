@@ -1,5 +1,5 @@
--  Hi, I’m Dilyan Zlatanov
--  I’m currently learning Python and Django
+-  Hi, my name is Dilyan Zlatanov
+-  I’m currently learning Python and SQL
 -  I like to improve myself and to exit my comfort zone.
 -  You can reach me by sending email to dilqnzlatanov@gmail.com or find me on Facebook and Instagram (Dilyan Zlatanov)
 
